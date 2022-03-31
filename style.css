@@ -41,12 +41,12 @@ body {
 
 @media (max-width: 480px) {
   #popcat {
-    width: 270px;
+    width: 350px;
   }
   #btn {
     margin-top: 30px;
-    width: 130px;
-    height: 50px;
+    width: 150px;
+    height: 60px;
     font-size: 16px;
     letter-spacing: 2px;
   }
