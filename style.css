@@ -41,13 +41,16 @@ body {
 
 @media (max-width: 480px) {
   #popcat {
-    width: 200px;
+    width: 270px;
   }
   #btn {
-      margin-top: 30px;
-      width: 100px;
-      height: 50px;
-      font-size: 16px;
-      letter-spacing: 2px;
+    margin-top: 30px;
+    width: 130px;
+    height: 50px;
+    font-size: 16px;
+    letter-spacing: 2px;
+  }
+  #btn:active {
+    box-shadow: 5px 5px 10px #9c9b9f, -5px -5px 10px #ffffff;
   }
 }
